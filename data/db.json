@@ -1,0 +1,9 @@
+{
+    "models": {
+        "CoffeeShop": {
+            "1": "{\"city\": \"Toronto\", \"capacity\": 20}",
+            "2": "{\"city\": \"Markham\", \"capacity\": 30}",
+            "3": "{\"city\": \"Richmond Hill\", \"capacity\": 30}"
+        }
+    }
+}
